@@ -1,0 +1,3 @@
+[submodule "Protodeep"]
+	path = Protodeep
+	url = https://github.com/Pduhard/Protodeep.git
